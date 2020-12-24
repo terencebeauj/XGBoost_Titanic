@@ -1,2 +1,2 @@
 # XGBoost_Titanic
-Create a classifier model to the titanic dataset from kaggle
+Create and hyperoptimize easily a xgboost classifier model, for the titanic dataset from kaggle.
